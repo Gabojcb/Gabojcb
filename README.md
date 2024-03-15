@@ -1,4 +1,4 @@
-<h2 align="center">Hi , I'm Gabriel Castro</h2>
+<h2 align="left">Hi , I'm Gabriel Castro</h2>
 <h3 align="center">I am a trainee Frontend Developer with one year of internship and assignments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabojcb&label=Profile%20views&color=0e75b6&style=flat" alt="gabojcb" /> </p>
