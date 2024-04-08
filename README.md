@@ -1,9 +1,9 @@
-<h2 align="left">Hi , I'm Gabriel Castro</h2>
-<h3 align="center">I am a junior Frontend Developer with one year of internship and assignments.</h3>
+<h2 align="left">Hi , I'm Gabriel Castro 🎩</h2>
+<h3 align="center">I am a junior Frontend Developer with one year of internship and assignments :octocat:</h3>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-## About me 
+## About me 📌
 
 ```js
 const gabojcb = {
