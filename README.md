@@ -9,7 +9,7 @@
 const gabojcb = {
   fullName: "Gabriel Castro",
   lenguajes: ["Javascript", "TypeScript"],
-  tools: ["React", "Sass", "Git", "Node", "Html", "css"],
+  tools: ["React", "Sass", "Git", "Node", "Html", "Css"],
   rol: "Frontend",
   age: 18,
   likesCoffee: true,
