@@ -11,7 +11,7 @@ const gabojcb = {
   lenguajes: ["Javascript", "TypeScript"],
   tools: ["React", "Sass", "Git", "Node", "Html", "Css"],
   rol: "Frontend",
-  age: 18,
+  age: 19,
   likesCoffee: true,
 }
 ```
